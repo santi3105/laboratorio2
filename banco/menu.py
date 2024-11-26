@@ -1,4 +1,4 @@
-from a import *
+from funciones import *
 def menu():
     while True:
         print("\n- Gestión de Productos ")
